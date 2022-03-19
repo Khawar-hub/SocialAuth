@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062602862131",
+    "project_id": "socialauthentication-6200a",
+    "storage_bucket": "socialauthentication-6200a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062602862131:android:01d58f345f39269a23bd46",
+        "android_client_info": {
+          "package_name": "com.reactnativeboilerplacehermes.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062602862131-eg7mkprggg7ufeigepi638kit1qf50qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativeboilerplacehermes.authapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1062602862131-4pi2gae6v0b1ssgsdd9jm6fngk6vjkru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-15P_mGqeTfMlsvYh705RkEfwKviaxzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062602862131-4pi2gae6v0b1ssgsdd9jm6fngk6vjkru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
